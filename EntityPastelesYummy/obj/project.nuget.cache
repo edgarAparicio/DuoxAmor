@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RPAMVhVaO/PJ5t2EQR0vD7n6wiwgmI82n0Jj5DUYVrTzFgqP11q8DpZ3IxEdsXemNu7UlQPk0SeXgDtme9X4g==",
+  "dgSpecHash": "HbOkVITgLBBxWq5VaqTedAjgdX5Cko0RpwY4llUBSfn7fqOGtGzP41mWgdDH5c0f9rlyJHubGAiJFJ44hF29VQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
+  "projectFilePath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edgar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\edgar\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

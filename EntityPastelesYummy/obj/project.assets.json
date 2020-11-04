@@ -3875,11 +3875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
+      "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
       "projectName": "EntityPastelesYummy",
-      "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
+      "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\obj\\",
+      "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

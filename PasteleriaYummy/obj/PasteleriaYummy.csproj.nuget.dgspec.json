@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj": {}
+    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj": {
+    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj",
         "projectName": "DataPastelesYummy",
-        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj",
+        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj"
+              "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj": {
+                "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj": {
+    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
         "projectName": "EntityPastelesYummy",
-        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
+        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\EntityPastelesYummy.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\EntityPastelesYummy\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\EntityPastelesYummy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -173,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj": {
+    "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj",
         "projectName": "PasteleriaYummy",
-        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj",
+        "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -199,8 +199,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj"
+              "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj": {
+                "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj"
               }
             }
           }

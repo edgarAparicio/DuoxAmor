@@ -9515,11 +9515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj",
+      "projectUniqueName": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj",
       "projectName": "PasteleriaYummy",
-      "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\PasteleriaYummy.csproj",
+      "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\PasteleriaYummy.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\PasteleriaYummy\\obj\\",
+      "outputPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\PasteleriaYummy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9538,8 +9538,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj": {
-              "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\PasteleriaYummy\\DataPastelesYummy\\DataPastelesYummy.csproj"
+            "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj": {
+              "projectPath": "C:\\Users\\edgar\\Google Drive\\Applications Development\\Git\\DuoxAmor\\DataPastelesYummy\\DataPastelesYummy.csproj"
             }
           }
         }
